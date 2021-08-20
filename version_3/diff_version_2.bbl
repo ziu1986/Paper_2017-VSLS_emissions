@@ -1,0 +1,474 @@
+\begin{thebibliography}{59}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{\tt #1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Aschmann et~al.({2009})Aschmann, Sinnhuber, Atlas, and
+  Schauffler}]{ACP:Aschmann2009}
+Aschmann, J., Sinnhuber, B.-M., Atlas, E.~L., and Schauffler, S.~M.: {Modeling
+  the transport of very short-lived substances into the tropical upper
+  troposphere and lower stratosphere}, {Atmos. Chem. Phys.}, {9}, {9237--9247},
+  \doi{{10.5194/acp-9-9237-2009, 2009}}, {2009}.
+
+\bibitem[{Austin et~al.({2007})Austin, Wilson, Li, and Vomel}]{TAS:Austin2007}
+Austin, J., Wilson, J., Li, F., and Vomel, H.: {Evolution of water vapor
+  concentrations and stratospheric age of air in coupled chemistry-climate
+  model simulations}, {J. Atmos. Sci.}, {64}, {905--921},
+  \doi{{10.1175/JAS3866.1}}, {2007}.
+
+\bibitem[{Austin et~al.({2013})Austin, Horowitz, Schwarzkopf, Wilson, and
+  Levy}]{JC:Austin2013}
+Austin, J., Horowitz, L.~W., Schwarzkopf, M.~D., Wilson, R.~J., and Levy, H.:
+  {Stratospheric Ozone and Temperature Simulated from the Preindustrial Era to
+  the Present Day}, {J. Climate}, {26}, {3528--3543},
+  \doi{{10.1175/JCLI-D-12-00162.1}}, {2013}.
+
+\bibitem[{Braesicke et~al.({2013})Braesicke, Keeble, Yang, Stiller, Kellmann,
+  Abraham, Archibald, Telford, and Pyle}]{ACP:Braesicke2013}
+Braesicke, P., Keeble, J., Yang, X., Stiller, G., Kellmann, S., Abraham, N.~L.,
+  Archibald, A., Telford, P., and Pyle, J.~A.: {Circulation anomalies in the
+  Southern Hemisphere and ozone changes}, {Atmos. Chem. Phys.}, {13},
+  {10\,677--10\,688}, \doi{{10.5194/acp-13-10677-2013}}, {2013}.
+
+\bibitem[{Br\"{u}hl et~al.({2012})Br\"{u}hl, Lelieveld, Crutzen, and
+  Tost}]{ACP:Bruehl2012}
+Br\"{u}hl, C., Lelieveld, J., Crutzen, P.~J., and Tost, H.: {The role of
+  carbonyl sulphide as a source of stratospheric sulphate aerosol and its
+  impact on climate}, {Atmos. Chem. Phys.}, {12}, {1239--1253},
+  \doi{{10.5194/acp-12-1239-2012}}, {2012}.
+
+\bibitem[{Br\"{u}hl et~al.({2015})Br\"{u}hl, Lelieveld, Tost, H\"{o}pfner, and
+  Glatthor}]{JGR:Bruehl2015}
+Br\"{u}hl, C., Lelieveld, J., Tost, H., H\"{o}pfner, M., and Glatthor, N.:
+  {Stratospheric sulfur and its implications for radiative forcing simulated by
+  the chemistry climate model EMAC}, {J. Geophys. Res.-Atmos.}, {120},
+  {2103--2118}, \doi{{10.1002/2014JD022430}}, {2015}.
+
+\bibitem[{Butchart et~al.({2006})Butchart, Scaife, Bourqui, de~Grandpre, Hare,
+  Kettleborough, Langematz, Manzini, Sassi, Shibata, Shindell, and
+  Sigmond}]{CD:Butchart2006}
+Butchart, N., Scaife, A.~A., Bourqui, M., de~Grandpre, J., Hare, S. H.~E.,
+  Kettleborough, J., Langematz, U., Manzini, E., Sassi, F., Shibata, K.,
+  Shindell, D., and Sigmond, M.: {Simulations of anthropogenic change in the
+  strength of the Brewer-Dobson circulation}, {Clim. Dynam.}, {27}, {727--741},
+  \doi{{10.1007/s00382-006-0162-4}}, {2006}.
+
+\bibitem[{Fernandez et~al.(2017)Fernandez, Kinnison, Lamarque, Tilmes, and
+  Saiz-Lopez}]{ACP:Fernandez2017}
+Fernandez, R.~P., Kinnison, D.~E., Lamarque, J.-F., Tilmes, S., and Saiz-Lopez,
+  A.: Impact of biogenic very short-lived bromine on the Antarctic ozone hole
+  during the 21st century, {Atmos. Chem. Phys.}, 17, 1673--1688,
+  \doi{10.5194/acp-17-1673-2017},
+  \urlprefix\url{https://www.atmos-chem-phys.net/17/1673/2017/}, 2017.
+
+\bibitem[{Fujino et~al.({2006})Fujino, Nair, Kainuma, Masui, and
+  Matsuoka}]{EJ:Fujino2006}
+Fujino, J., Nair, R., Kainuma, M., Masui, T., and Matsuoka, Y.: {Multi-gas
+  mitigation analysis on stabilization scenarios using aim global model},
+  {Energ. J.}, pp. {343--353}, {2006}.
+
+\bibitem[{Glatthor et~al.(2015)Glatthor, H\"{o}pfner, Baker, Berry, Campbell,
+  Kawa, Krysztofiak, Leyser, Sinnhuber, Stiller, Stinecipher, and von
+  Clarmann}]{GRL:Glatthor2015}
+Glatthor, N., H\"{o}pfner, M., Baker, I.~T., Berry, J., Campbell, J.~E., Kawa,
+  S.~R., Krysztofiak, G., Leyser, A., Sinnhuber, B.-M., Stiller, G.~P.,
+  Stinecipher, J., and von Clarmann, T.: Tropical sources and sinks of carbonyl
+  sulfide observed from space, Geophys. Res. Lett., \doi{10.1002/2015GL066293},
+  \urlprefix\url{http://dx.doi.org/10.1002/2015GL066293}, 2015GL066293, 2015.
+
+\bibitem[{{Global Ozone Research and Monitoring Project}(2011)}]{WMO2010}
+{Global Ozone Research and Monitoring Project}: {Scientific Assessment of Ozone
+  Depletion: 2010}, 2011.
+
+\bibitem[{{Global Ozone Research and Monitoring Project}(2014)}]{WMO2014}
+{Global Ozone Research and Monitoring Project}: {Scientific Assessment of Ozone
+  Depletion: 2014}, 2014.
+
+\bibitem[{Hijioka et~al.(2008)Hijioka, Matsuoka, Nishimoto, Masui, and
+  Kainuma}]{GEE:Hijioka2008}
+Hijioka, Y., Matsuoka, Y., Nishimoto, H., Masui, M., and Kainuma, M.: Global
+  GHG emissions scenarios under GHG concentration stabilization targets, J.
+  Glob. Env. Eng., 13, 97--108, 2008.
+
+\bibitem[{Hossaini et~al.(2016)Hossaini, Patra, Leeson, Krysztofiak, Abraham,
+  Andrews, Archibald, Aschmann, Atlas, Belikov, B\"onisch, Carpenter, Dhomse,
+  Dorf, Engel, Feng, Fuhlbr\"ugge, Griffiths, Harris, Hommel, Keber, Kr\"uger,
+  Lennartz, Maksyutov, Mantle, Mills, Miller, Montzka, Moore, Navarro, Oram,
+  Pfeilsticker, Pyle, Quack, Robinson, Saikawa, Saiz-Lopez, Sala, Sinnhuber,
+  Taguchi, Tegtmeier, Lidster, Wilson, and Ziska}]{ACP:Hossaini2016}
+Hossaini, R., Patra, P.~K., Leeson, A.~A., Krysztofiak, G., Abraham, N.~L.,
+  Andrews, S.~J., Archibald, A.~T., Aschmann, J., Atlas, E.~L., Belikov, D.~A.,
+  B\"onisch, H., Carpenter, L.~J., Dhomse, S., Dorf, M., Engel, A., Feng, W.,
+  Fuhlbr\"ugge, S., Griffiths, P.~T., Harris, N. R.~P., Hommel, R., Keber, T.,
+  Kr\"uger, K., Lennartz, S.~T., Maksyutov, S., Mantle, H., Mills, G.~P.,
+  Miller, B., Montzka, S.~A., Moore, F., Navarro, M.~A., Oram, D.~E.,
+  Pfeilsticker, K., Pyle, J.~A., Quack, B., Robinson, A.~D., Saikawa, E.,
+  Saiz-Lopez, A., Sala, S., Sinnhuber, B.-M., Taguchi, S., Tegtmeier, S.,
+  Lidster, R.~T., Wilson, C., and Ziska, F.: A multi-model intercomparison of
+  halogenated very short-lived substances (TransCom-VSLS): linking oceanic
+  emissions and tropospheric transport for a reconciled estimate of the
+  stratospheric source gas injection of bromine, Atmos. Chem. Phys., 16,
+  9163--9187, \doi{10.5194/acp-16-9163-2016},
+  \urlprefix\url{http://www.atmos-chem-phys.net/16/9163/2016/}, 2016.
+
+\bibitem[{Hossaini et~al.({2010})Hossaini, Chipperfield, Monge-Sanz, Richards,
+  Atlas, and Blake}]{ACP:Hossaini2010}
+Hossaini, R., Chipperfield, M.~P., Monge-Sanz, B.~M., Richards, N. A.~D.,
+  Atlas, E., and Blake, D.~R.: {Bromoform and dibromomethane in the tropics: a
+  3-D model study of chemistry and transport}, {Atmos. Chem. Phys.}, {10},
+  {719--735}, \doi{{10.5194/acp-10-719-2010}}, {2010}.
+
+\bibitem[{Hossaini et~al.({2012})Hossaini, Chipperfield, Dhomse, Ordonez,
+  Saiz-Lopez, Abraham, Archibald, Braesicke, Telford, Warwick, Yang, and
+  Pyle}]{GRL:Hossaini2012}
+Hossaini, R., Chipperfield, M.~P., Dhomse, S., Ordonez, C., Saiz-Lopez, A.,
+  Abraham, N.~L., Archibald, A., Braesicke, P., Telford, P., Warwick, N., Yang,
+  X., and Pyle, J.: {Modelling future changes to the stratospheric source gas
+  injection of biogenic bromocarbons}, {Geophys. Res. Lett.}, {39},
+  \doi{{10.1029/2012GL053401}}, {2012}.
+
+\bibitem[{Hossaini et~al.({2015})Hossaini, Chipperfield, Montzka, Rap, Dhomse,
+  and Feng}]{NGS:Hossaini2015}
+Hossaini, R., Chipperfield, M.~P., Montzka, S.~A., Rap, A., Dhomse, S., and
+  Feng, W.: {Efficiency of short-lived halogens at influencing climate through
+  depletion of stratospheric ozone}, {Nat. Geosci.}, {8}, {186--190},
+  \doi{{10.1038/NGEO2363}}, {2015}.
+
+\bibitem[{Hughes et~al.({2013})Hughes, Johnson, Utting, Turner, Malin, Clarke,
+  and Liss}]{MC:Hughes2013}
+Hughes, C., Johnson, M., Utting, R., Turner, S., Malin, G., Clarke, A., and
+  Liss, P.~S.: {Microbial control of bromocarbon concentrations in coastal
+  waters of the western Antarctic Peninsula}, {Mar. Chem.}, {151}, {35--46},
+  \doi{{10.1016/j.marchem.2013.01.007}}, {2013}.
+
+\bibitem[{{IPCC - Intergovernmental Panel on Climate Change}(2013)}]{IPCC2013}
+{IPCC - Intergovernmental Panel on Climate Change}: {Climate Change 2013: The
+  Physical Science Basis}, 2013.
+
+\bibitem[{J\"ockel et~al.(2010)J\"ockel, Kerkweg, Pozzer, Sander, Tost, Riede,
+  Baumg\"{a}rtner, Gromov, and Kern}]{GMD:Joeckel2010}
+J\"ockel, P., Kerkweg, A., Pozzer, A., Sander, R., Tost, H., Riede, H.,
+  Baumg\"{a}rtner, A., Gromov, S., and Kern, B.: {Development cycle 2 of the
+  Modular Earth Submodel System (MESSy2)}, {Geosci. Model Dev.}, 3, 717--752,
+  \doi{10.5194/gmd-3-717-2010},
+  \urlprefix\url{http://www.geosci-model-dev.net/3/717/2010/}, 2010.
+
+\bibitem[{J\"{o}ckel et~al.({2008})J\"{o}ckel, Kerkweg, Buchholz-Dietsch, Tost,
+  Sander, and Pozzer}]{ACP:Joeckel2008}
+J\"{o}ckel, P., Kerkweg, A., Buchholz-Dietsch, J., Tost, H., Sander, R., and
+  Pozzer, A.: {Technical note: Coupling of chemical processes with the modular
+  earth submodel system (MESSy) submodel TRACER}, {Atmos. Chem. Phys.}, {8},
+  {1677--1687}, {2008}.
+
+\bibitem[{J\"{o}ckel et~al.({2016})J\"{o}ckel, Tost, Pozzer, Kunze, Kirner,
+  Brenninkmeijer, Brinkop, Cai, Dyroff, Eckstein, Frank, Garny, Gottschaldt,
+  Graf, Grewe, Kerkweg, Kern, Matthes, Mertens, Meul, Neumaier, N\"{u}tzel,
+  Oberl\"{a}nder-Hayn, Ruhnke, Runde, Sander, Scharffe, and
+  Zahn}]{GMD:Joeckel2016}
+J\"{o}ckel, P., Tost, H., Pozzer, A., Kunze, M., Kirner, O., Brenninkmeijer, C.
+  A.~M., Brinkop, S., Cai, D.~S., Dyroff, C., Eckstein, J., Frank, F., Garny,
+  H., Gottschaldt, K.-D., Graf, P., Grewe, V., Kerkweg, A., Kern, B., Matthes,
+  S., Mertens, M., Meul, S., Neumaier, M., N\"{u}tzel, M., Oberl\"{a}nder-Hayn,
+  S., Ruhnke, R., Runde, T., Sander, R., Scharffe, D., and Zahn, A.: {Earth
+  System Chemistry integrated Modelling (ESCiMo) with the Modular Earth
+  Submodel System (MESSy) version 2.51}, {Geosci. Model Dev.}, {9},
+  {1153--1200}, \doi{{10.5194/gmd-9-1153-2016}}, {2016}.
+
+\bibitem[{Kerkweg et~al.(2006)Kerkweg, Buchholz, Ganzeveld, Pozzer, Tost, and
+  J\"ockel}]{ACP:Kerkweg2006b}
+Kerkweg, A., Buchholz, J., Ganzeveld, L., Pozzer, A., Tost, H., and J\"ockel,
+  P.: Technical Note: An implementation of the dry removal processes DRY
+  DEPosition and SEDImentation in the Modular Earth Submodel System (MESSy),
+  {Atmos. Chem. Phys.}, 6, 4617--4632, \doi{10.5194/acp-6-4617-2006},
+  \urlprefix\url{http://www.atmos-chem-phys.net/6/4617/2006/}, 2006.
+
+\bibitem[{Kerkweg et~al.({2006})Kerkweg, Sander, Tost, and
+  J\"{o}ckel}]{ACP:Kerkweg2006}
+Kerkweg, A., Sander, R., Tost, H., and J\"{o}ckel, P.: {Technical note:
+  Implementation of prescribed (OFFLEM), calculated (ONLEM), and
+  pseudo-emissions (TNUDGE) of chemical species in the Modular Earth Submodel
+  System (MESSy)}, {Atmos. Chem. Phys.}, {6}, {3603--3609}, {2006}.
+
+\bibitem[{Kettle et~al.({2002})Kettle, Kuhn, von Hobe, Kesselmeier, and
+  Andreae}]{JGR:Kettle2002}
+Kettle, A.~J., Kuhn, U., von Hobe, M., Kesselmeier, J., and Andreae, M.~O.:
+  {Global budget of atmospheric carbonyl sulfide: Temporal and spatial
+  variations of the dominant sources and sinks}, {J. Geophys. Res.-Atmos.},
+  {107}, \doi{{10.1029/2002JD002187}}, {2002}.
+
+\bibitem[{Laufk\"{o}tter et~al.({2015})Laufk\"{o}tter, Vogt, Gruber,
+  Aita-Noguchi, Aumont, Bopp, Buitenhuis, Doney, Dunne, Hashioka, Hauck,
+  Hirata, John, Le~Quere, Lima, Nakano, Seferian, Totterdell, Vichi, and
+  V\"{o}lker}]{BGS:Laufkoetter2015}
+Laufk\"{o}tter, C., Vogt, M., Gruber, N., Aita-Noguchi, M., Aumont, O., Bopp,
+  L., Buitenhuis, E., Doney, S.~C., Dunne, J., Hashioka, T., Hauck, J., Hirata,
+  T., John, J., Le~Quere, C., Lima, I.~D., Nakano, H., Seferian, R.,
+  Totterdell, I., Vichi, M., and V\"{o}lker, C.: {Drivers and uncertainties of
+  future global marine primary production in marine ecosystem models},
+  {Biogeosciences}, {12}, {6955--6984}, \doi{{10.5194/bg-12-6955-2015}},
+  {2015}.
+
+\bibitem[{Laufk\"{o}tter et~al.({2016})Laufk\"{o}tter, Vogt, Gruber, Aumont,
+  Bopp, Doney, Dunne, Hauck, John, Lima, Seferian, and
+  Volker}]{BGS:Laufkoetter2016}
+Laufk\"{o}tter, C., Vogt, M., Gruber, N., Aumont, O., Bopp, L., Doney, S.~C.,
+  Dunne, J.~P., Hauck, J., John, J.~G., Lima, I.~D., Seferian, R., and Volker,
+  C.: {Projected decreases in future marine export production: the role of the
+  carbon flux through the upper ocean ecosystem}, {Biogeosciences}, {13},
+  {4023--4047}, \doi{{10.5194/bg-13-4023-2016}}, {2016}.
+
+\bibitem[{Lennartz et~al.(2015)Lennartz, Krysztofiak, Marandino, Sinnhuber,
+  Tegtmeier, Ziska, Hossaini, Kr\"uger, Montzka, Atlas, Oram, Keber, B\"onisch,
+  and Quack}]{ACP:Lennartz2015}
+Lennartz, S.~T., Krysztofiak, G., Marandino, C.~A., Sinnhuber, B.-M.,
+  Tegtmeier, S., Ziska, F., Hossaini, R., Kr\"uger, K., Montzka, S.~A., Atlas,
+  E., Oram, D.~E., Keber, T., B\"onisch, H., and Quack, B.: Modelling marine
+  emissions and atmospheric distributions of halocarbons and dimethyl sulfide:
+  the influence of prescribed water concentration vs. prescribed emissions,
+  Atmos. Chem. Phys., 15, 11\,753--11\,772, \doi{10.5194/acp-15-11753-2015},
+  \urlprefix\url{http://www.atmos-chem-phys.net/15/11753/2015/}, 2015.
+
+\bibitem[{Li et~al.({2008})Li, Austin, and Wilson}]{JC:Li2008}
+Li, F., Austin, J., and Wilson, J.: {The strength of the Brewer-Dobson
+  circulation in a changing climate: Coupled chemistry-climate model
+  simulations}, {J. Climate}, {21}, {40--57}, \doi{{10.1175/2007JCLI1663.1}},
+  {2008}.
+
+\bibitem[{Liang et~al.({2010})Liang, Stolarski, Kawa, Nielsen, Douglass,
+  Rodriguez, Blake, Atlas, and Ott}]{ACP:Liang2010}
+Liang, Q., Stolarski, R.~S., Kawa, S.~R., Nielsen, J.~E., Douglass, A.~R.,
+  Rodriguez, J.~M., Blake, D.~R., Atlas, E.~L., and Ott, L.~E.: {Finding the
+  missing stratospheric Br-y: a global modeling study of CHBr3 and CH2Br2},
+  {Atmos. Chem. Phys.}, {10}, {2269--2286}, {2010}.
+
+\bibitem[{Liang et~al.({2014})Liang, Atlas, Blake, Dorf, Pfeilsticker, and
+  Schauffler}]{ACP:Liang2014}
+Liang, Q., Atlas, E., Blake, D., Dorf, M., Pfeilsticker, K., and Schauffler,
+  S.: {Convective transport of very short lived bromocarbons to the
+  stratosphere}, {Atmos. Chem. Phys.}, {14}, {5781--5792},
+  \doi{{10.5194/acp-14-5781-2014}}, {2014}.
+
+\bibitem[{Lin and Manley(2012)}]{LO:Lin2012}
+Lin, C.~Y. and Manley, S.~L.: Bromoform production from seawater treated with
+  bromoperoxidase, Limnol. Oceanogr., 57, 1857--1866,
+  \doi{10.4319/lo.2012.57.6.1857},
+  \urlprefix\url{http://dx.doi.org/10.4319/lo.2012.57.6.1857}, 2012.
+
+\bibitem[{L\"offler et~al.(2016)L\"offler, Brinkop, and
+  J\"ockel}]{ACP:Loeffler2016}
+L\"offler, M., Brinkop, S., and J\"ockel, P.: Impact of major volcanic
+  eruptions on stratospheric water vapour, Atmos. Chem. Phys., 16, 6547--6562,
+  \doi{10.5194/acp-16-6547-2016},
+  \urlprefix\url{http://www.atmos-chem-phys.net/16/6547/2016/}, 2016.
+
+\bibitem[{Michou et~al.({2011})Michou, Saint-Martin, Teyssedre, Alias, Karcher,
+  Olivie, Voldoire, Josse, Peuch, Clark, Lee, and Cheroux}]{GMD:Michou2011}
+Michou, M., Saint-Martin, D., Teyssedre, H., Alias, A., Karcher, F., Olivie,
+  D., Voldoire, A., Josse, B., Peuch, V.~H., Clark, H., Lee, J.~N., and
+  Cheroux, F.: {A new version of the CNRM Chemistry-Climate Model, CNRM-CCM:
+  description and improvements from the CCMVal-2 simulations}, {Geosci. Model
+  Dev.}, {4}, {873--900}, \doi{{10.5194/gmd-4-873-2011}}, {2011}.
+
+\bibitem[{Moore et~al.({1996})Moore, Webb, Tokarczyk, and
+  Wever}]{JGR:Moore1996}
+Moore, R.~M., Webb, M., Tokarczyk, R., and Wever, R.: {Bromoperoxidase and
+  iodoperoxidase enzymes and production of halogenated methanes in marine
+  diatom cultures}, {J. Geophys. Res.-Oceans}, {101}, {20\,899--20\,908},
+  \doi{{10.1029/96JC01248}}, {1996}.
+
+\bibitem[{Morgenstern et~al.(2016)Morgenstern, Hegglin, Rozanov, O'Connor,
+  Abraham, Akiyoshi, Archibald, Bekki, Butchart, Chipperfield, Deushi, Dhomse,
+  Garcia, Hardiman, Horowitz, J\"ockel, Josse, Kinnison, Lin, Mancini, Manyin,
+  Marchand, Mar\'ecal, Michou, Oman, Pitari, Plummer, Revell, Saint-Martin,
+  Schofield, Stenke, Stone, Sudo, Tanaka, Tilmes, Yamashita, Yoshida, and
+  Zeng}]{GMD:Morgenstern2016}
+Morgenstern, O., Hegglin, M.~I., Rozanov, E., O'Connor, F.~M., Abraham, N.~L.,
+  Akiyoshi, H., Archibald, A.~T., Bekki, S., Butchart, N., Chipperfield, M.~P.,
+  Deushi, M., Dhomse, S.~S., Garcia, R.~R., Hardiman, S.~C., Horowitz, L.~W.,
+  J\"ockel, P., Josse, B., Kinnison, D., Lin, M., Mancini, E., Manyin, M.~E.,
+  Marchand, M., Mar\'ecal, V., Michou, M., Oman, L.~D., Pitari, G., Plummer,
+  D.~A., Revell, L.~E., Saint-Martin, D., Schofield, R., Stenke, A., Stone, K.,
+  Sudo, K., Tanaka, T.~Y., Tilmes, S., Yamashita, Y., Yoshida, K., and Zeng,
+  G.: Review of the global models used within the Chemistry-Climate Model
+  Initiative (CCMI), Geosci. Model Dev. Discussions, 2016, 1--49,
+  \doi{10.5194/gmd-2016-199},
+  \urlprefix\url{http://www.geosci-model-dev-discuss.net/gmd-2016-199/}, 2016.
+
+\bibitem[{Muthers et~al.({2016})Muthers, Kuchar, Stenke, Schmitt, Anet, Raible,
+  and Stocker}]{GRL:Muthers2016}
+Muthers, S., Kuchar, A., Stenke, A., Schmitt, J., Anet, J.~G., Raible, C.~C.,
+  and Stocker, T.~F.: {Stratospheric age of air variations between 1600 and
+  2100}, {Geophys. Res. Lett.}, {43}, {5409--5418},
+  \doi{{10.1002/2016GL068734}}, {2016}.
+
+\bibitem[{Nightingale et~al.({2000})Nightingale, Liss, and
+  Schlosser}]{GRS:Nightingale2000}
+Nightingale, P.~D., Liss, P.~S., and Schlosser, P.: {Measurements of air-sea
+  gas transfer during an open ocean algal bloom.}, {Geophys. Res. Lett.}, {27},
+  {2117--2120}, \doi{{10.1029/2000GL011541}}, {2000}.
+
+\bibitem[{Oberl\"{a}nder-Hayn et~al.({2016})Oberl\"{a}nder-Hayn, Gerber,
+  Abalichin, Akiyoshi, Kerschbaumer, Kubin, Kunze, Langematz, Meul, Michou,
+  Morgenstern, and Oman}]{GRL:Oberlaender2016}
+Oberl\"{a}nder-Hayn, S., Gerber, E.~P., Abalichin, J., Akiyoshi, H.,
+  Kerschbaumer, A., Kubin, A., Kunze, M., Langematz, U., Meul, S., Michou, M.,
+  Morgenstern, O., and Oman, L.~D.: {Is the Brewer-Dobson circulation
+  increasing or moving upward?}, {Geophys. Res. Lett.}, {43}, {1772--1779},
+  \doi{{10.1002/2015GL067545}}, {2016}.
+
+\bibitem[{Oman et~al.({2016})Oman, Douglass, Salawitch, Canty, Ziemke, and
+  Manyin}]{GRL:Oman2016}
+Oman, L.~D., Douglass, A.~R., Salawitch, R.~J., Canty, T.~P., Ziemke, J.~R.,
+  and Manyin, M.: {The effect of representing bromine from VSLS on the
+  simulation and evolution of Antarctic ozone}, {Geophys. Res. Lett.}, {43},
+  {9869--9876}, \doi{{10.1002//2016GL070471}}, {2016}.
+
+\bibitem[{Ordonez et~al.({2012})Ordonez, Lamarque, Tilmes, Kinnison, Atlas,
+  Blake, Santos, Brasseur, and Saiz-Lopez}]{ACP:Ordonez2012}
+Ordonez, C., Lamarque, J.-F., Tilmes, S., Kinnison, D.~E., Atlas, E.~L., Blake,
+  D.~R., Santos, G.~S., Brasseur, G., and Saiz-Lopez, A.: {Bromine and iodine
+  chemistry in a global chemistry-climate model: description and evaluation of
+  very short-lived oceanic sources}, {Atmos. Chem. Phys.}, {12}, {1423--1447},
+  \doi{{10.5194/acp-12-1423-2012}}, {2012}.
+
+\bibitem[{Pozzer et~al.({2006})Pozzer, J\"{o}ckel, Sander, Williams, Ganzeveld,
+  and Lelieveld}]{ACP:Pozzer2006}
+Pozzer, A., J\"{o}ckel, P.~J., Sander, R., Williams, J., Ganzeveld, L., and
+  Lelieveld, J.: {Technical note: the MESSy-submodel AIRSEA calculating the
+  air-sea exchange of chemical species}, {Atmos. Chem. Phys.}, {6},
+  {5435--5444}, {2006}.
+
+\bibitem[{Pringle et~al.({2010})Pringle, Tost, Message, Steil, Giannadaki,
+  Nenes, Fountoukis, Stier, Vignati, and Leieved}]{GMD:Pringle2010}
+Pringle, K.~J., Tost, H., Message, S., Steil, B., Giannadaki, D., Nenes, A.,
+  Fountoukis, C., Stier, P., Vignati, E., and Leieved, J.: {Description and
+  evaluation of GMXe: a new aerosol submodel for global simulations (v1)},
+  {Geosci. Model Dev.}, {3}, {391--412}, \doi{{10.5194/gmd-3-391-2010}},
+  {2010}.
+
+\bibitem[{Reynolds et~al.({2002})Reynolds, Rayner, Smith, Stokes, and
+  Wang}]{JC:Reynolds2002}
+Reynolds, R.~W., Rayner, N.~A., Smith, T.~M., Stokes, D.~C., and Wang, W.~Q.:
+  {An improved in situ and satellite SST analysis for climate}, {J. Climate},
+  {15}, {1609--1625}, \doi{{10.1175/1520-0442(2002)015<1609:AIISAS>2.0.CO;2}},
+  {2002}.
+
+\bibitem[{Sander et~al.(2011{\natexlab{a}})Sander, Baumgaertner, Gromov,
+  Harder, J\"ockel, Kerkweg, Kubistin, Regelin, Riede, Sandu, Taraborrelli,
+  Tost, and Xie}]{GMD:Sander2011}
+Sander, R., Baumgaertner, A., Gromov, S., Harder, H., J\"ockel, P., Kerkweg,
+  A., Kubistin, D., Regelin, E., Riede, H., Sandu, A., Taraborrelli, D., Tost,
+  H., and Xie, Z.-Q.: {The atmospheric chemistry box model CAABA/MECCA-3.0},
+  {Geosci. Model Dev.}, 4, 373--380, \doi{10.5194/gmd-4-373-2011},
+  \urlprefix\url{https://www.geosci-model-dev.net/4/373/2011/},
+  2011{\natexlab{a}}.
+
+\bibitem[{Sander et~al.({2014})Sander, J\"{o}ckel, Kirner, Kunert, Landgraf,
+  and Pozzer}]{GMD:Sander2014}
+Sander, R., J\"{o}ckel, P., Kirner, O., Kunert, A.~T., Landgraf, J., and
+  Pozzer, A.: {The photolysis module JVAL-14, compatible with the MESSy
+  standard, and the JVal PreProcessor (JVPP)}, {Geosci. Model Dev.}, {7},
+  {2653--2662}, \doi{{10.5194/gmd-7-2653-2014}}, {2014}.
+
+\bibitem[{Sander et~al.(2011{\natexlab{b}})Sander, Burkholder, Abbatt, Barker,
+  Huie, Kolb, Kurylo, Orkin, Wilmouth, and Wine}]{JPL_11-10}
+Sander, S.~P., Burkholder, J.~B., Abbatt, J. P.~D., Barker, J.~R., Huie, R.~E.,
+  Kolb, C.~E., Kurylo, M.~J., Orkin, V.~L., Wilmouth, D.~M., and Wine, P.~H.:
+  Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies,
+  Tech. Rep.~17, National Aeronautics and Space Administration, Jet Propulsion
+  Laboratory, 2011{\natexlab{b}}.
+
+\bibitem[{Sinnhuber and Meul({2015})}]{GRL:Sinnhuber2015}
+Sinnhuber, B.-M. and Meul, S.: {Simulating the impact of emissions of
+  brominated very short lived substances on past stratospheric ozone trends},
+  {Geophys. Res. Lett.}, {42}, {2449--2456}, \doi{{10.1002/2014GL062975}},
+  {2015}.
+
+\bibitem[{Sinnhuber et~al.({2009})Sinnhuber, Sheode, Sinnhuber, Chipperfield,
+  and Feng}]{ACP:Sinnhuber2009}
+Sinnhuber, B.-M., Sheode, N., Sinnhuber, M., Chipperfield, M.~P., and Feng, W.:
+  {The contribution of anthropogenic bromine emissions to past stratospheric
+  ozone trends: a modelling study}, {Atmos. Chem. Phys.}, {9}, {2863--2871},
+  {2009}.
+
+\bibitem[{Stemmler et~al.({2015})Stemmler, Hense, and Quack}]{BGS:Stemmler2015}
+Stemmler, I., Hense, I., and Quack, B.: {Marine sources of bromoform in the
+  global open ocean - global patterns and emissions}, {Biogeosciences}, {12},
+  {1967--1981}, \doi{{10.5194/bg-12-1967-2015}}, {2015}.
+
+\bibitem[{Tost et~al.({2006})Tost, J\"{o}ckel, Kerkweg, Sander, and
+  Lelieveld}]{ACP:Tost2006}
+Tost, H., J\"{o}ckel, P.~J., Kerkweg, A., Sander, R., and Lelieveld, J.:
+  {Technical note: A new comprehensive SCAVenging submodel for global
+  atmospheric chemistry modelling}, {Atmos. Chem. Phys.}, {6}, {565--574},
+  {2006}.
+
+\bibitem[{Voldoire et~al.({2013})Voldoire, Sanchez-Gomez, Salas~y Melia,
+  Decharme, Cassou, Senesi, Valcke, Beau, Alias, Chevallier, Deque, Deshayes,
+  Douville, Fernandez, Madec, Maisonnave, Moine, Planton, Saint-Martin, Szopa,
+  Tyteca, Alkama, Belamari, Braun, Coquart, and Chauvin}]{CD:Voldoire2013}
+Voldoire, A., Sanchez-Gomez, E., Salas~y Melia, D., Decharme, B., Cassou, C.,
+  Senesi, S., Valcke, S., Beau, I., Alias, A., Chevallier, M., Deque, M.,
+  Deshayes, J., Douville, H., Fernandez, E., Madec, G., Maisonnave, E., Moine,
+  M.-P., Planton, S., Saint-Martin, D., Szopa, S., Tyteca, S., Alkama, R.,
+  Belamari, S., Braun, A., Coquart, L., and Chauvin, F.: {The CNRM-CM5.1 global
+  climate model: description and basic evaluation}, {Clim. Dynam.}, {40},
+  {2091--2121}, \doi{{10.1007/s00382-011-1259-y}}, {2013}.
+
+\bibitem[{Wanninkhof(1992)}]{JGRC:Wanninkhof1992}
+Wanninkhof, R.: Relationship between wind speed and gas exchange over the
+  ocean, J. Geophys. Res.-Oceans, 97, 7373--7382, \doi{10.1029/92JC00188},
+  \urlprefix\url{http://dx.doi.org/10.1029/92JC00188}, 1992.
+
+\bibitem[{Wanninkhof and McGillis(1999)}]{GRL:Wanninkhof1999}
+Wanninkhof, R. and McGillis, W.~R.: {A cubic relationship between air-sea CO2
+  exchange and wind speed}, {Geophys. Res. Lett.}, 26, 1889--1892,
+  \doi{10.1029/1999GL900363},
+  \urlprefix\url{http://dx.doi.org/10.1029/1999GL900363}, 1999.
+
+\bibitem[{Warwick et~al.({2006})Warwick, Pyle, Carver, Yang, Savage, O'Connor,
+  and Cox}]{JGR:Warwick2006}
+Warwick, N.~J., Pyle, J.~A., Carver, G.~D., Yang, X., Savage, N.~H., O'Connor,
+  F.~M., and Cox, R.~A.: {Global modeling of biogenic bromocarbons}, {J.
+  Geophys. Res.-Atmos.}, {111}, \doi{{10.1029/2006JD007264}}, {2006}.
+
+\bibitem[{Wilcox et~al.({2012})Wilcox, Hoskins, and Shine}]{QJRMS:Wilcox2012}
+Wilcox, L.~J., Hoskins, B.~J., and Shine, K.~P.: {A global blended tropopause
+  based on ERA data. Part II: Trends and tropical broadening}, {Q. J. Roy.
+  Meteorol. Soc.}, {138}, {576--584}, \doi{{10.1002/qj.910}}, {2012}.
+
+\bibitem[{Yang et~al.(2014)Yang, Abraham, Archibald, Braesicke, Keeble,
+  Telford, Warwick, and Pyle}]{ACP:Yang2014}
+Yang, X., Abraham, N.~L., Archibald, A.~T., Braesicke, P., Keeble, J., Telford,
+  P.~J., Warwick, N.~J., and Pyle, J.~A.: {How sensitive is the recovery of
+  stratospheric ozone to changes in concentrations of very short-lived
+  bromocarbons?}, Atmos. Chem. Phys., 14, 10\,431--10\,438,
+  \doi{10.5194//acp-14-10431-2014}, 2014.
+
+\bibitem[{Ziska et~al.(2017)Ziska, Quack, Tegtmeier, Stemmler, and
+  Kr\"{u}ger}]{JAC:Ziska2017}
+Ziska, F., Quack, B., Tegtmeier, S., Stemmler, I., and Kr\"{u}ger, K.: Future
+  emissions of marine halogenated very-short lived substances under climate
+  change, {J. Atmos. Chem.}, 74, 245--260, \doi{10.1007/s10874-016-9355-3},
+  2017.
+
+\bibitem[{Ziska et~al.({2013})Ziska, Quack, Abrahamsson, Archer, Atlas, Bell,
+  Butler, Carpenter, Jones, Harris, Hepach, Heumann, Hughes, Kuss, Kr\"{u}ger,
+  Liss, Moore, Orlikowska, Raimund, Reeves, Reifenh\"{a}user, Robinson, Schall,
+  Tanhua, Tegtmeier, Turner, Wang, Wallace, Williams, Yamamoto, Yvon-Lewis, and
+  Yokouchi}]{ACP:Ziska2013}
+Ziska, F., Quack, B., Abrahamsson, K., Archer, S.~D., Atlas, E., Bell, T.,
+  Butler, J.~H., Carpenter, L.~J., Jones, C.~E., Harris, N. R.~P., Hepach, H.,
+  Heumann, K.~G., Hughes, C., Kuss, J., Kr\"{u}ger, K., Liss, P., Moore, R.~M.,
+  Orlikowska, A., Raimund, S., Reeves, C.~E., Reifenh\"{a}user, W., Robinson,
+  A.~D., Schall, C., Tanhua, T., Tegtmeier, S., Turner, S., Wang, L., Wallace,
+  D., Williams, J., Yamamoto, H., Yvon-Lewis, S., and Yokouchi, Y.: {Global
+  sea-to-air flux climatology for bromoform, dibromomethane and methyl iodide},
+  {Atmos. Chem. Phys.}, {13}, {8915--8934}, \doi{{10.5194/acp-13-8915-2013}},
+  {2013}.
+
+\end{thebibliography}
